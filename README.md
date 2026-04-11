@@ -124,23 +124,20 @@ Install via Arduino Library Manager:
 
 ## 🚀 Installation
 
-1. Clone the repository:
+### 🔗 Repository
 ```bash
 git clone https://github.com/your-username/smart-bell-system.git
 
-Open .ino file in Arduino IDE
+⚙️ Setup Steps
+Open the .ino file in Arduino IDE
 Install required libraries
-Select correct board & COM port
-Upload code
-
-
+Select the correct board & COM port
+Upload the code
 🧠 How It Works
 RTC keeps accurate time
 ESP8266 checks schedule every second
-When time matches → Relay triggers bell
-Dashboard allows full control via browser
-
-
+When time matches → Relay triggers the bell
+Dashboard provides full control via browser
 ⚠️ Safety Note
 
 This project involves high voltage (230V AC).
@@ -150,8 +147,7 @@ Improper handling can cause serious injury.
 
 Use proper insulation
 Avoid touching live wires
-Get supervision if unsure
-
+Seek supervision if unsure
 👨‍💻 Author
 
 Abdul Rauf Afridi
@@ -163,11 +159,10 @@ If you like this project:
 ⭐ Star the repository
 🍴 Fork it
 📢 Share with others
-
 📜 License
 
 This project is open-source and available under the MIT License.
 
+💬 Feedback
 
-
-If you find any issues or have suggestions, please open an issue or contribute.
+If you find any issues or have suggestions, feel free to open an issue or reach out.
