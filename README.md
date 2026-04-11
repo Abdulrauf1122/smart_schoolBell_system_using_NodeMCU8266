@@ -101,8 +101,8 @@ After uploading code:
 
 
 ## 🔐 Default Login
--Username: admin
--Password: admin123
+Username: admin
+Password: admin123
 
 
 
