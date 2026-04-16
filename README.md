@@ -144,6 +144,10 @@ git clone https://github.com/Abdulrauf1122/smart_schoolBell_system_using_NodeMCU
 - Dashboard provides full control via browser  
 
 
+<p align="center">
+  <img src="Dashboard.png" width="800"/>
+</p>
+
 
 ## ⚠️ Safety Note
 
