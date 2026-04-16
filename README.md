@@ -96,6 +96,12 @@ After uploading code:
 - Open: `http://192.168.4.1`
 
 
+### 🔹 Station Mode
+- Access via:
+  - IP Address
+  - `http://smartbell.local`
+    
+
 ## 🔐 Default Login
   - Username: admin
   - Password: admin123
