@@ -121,8 +121,7 @@ Install via Arduino Library Manager:
 ## 🚀 Installation
 
 ### 🔗 Repository
-git clone https://github.com/Abdulrauf1122/smart_schoolBell_system_using_NodeMCU8266/tree/main.git
-
+git clone https://github.com/Abdulrauf1122/smart_schoolBell_system_using_NodeMCU8266.git
 ### ⚙️ Setup Steps
 1. Open the `.ino` file in Arduino IDE  
 2. Install required libraries  
