@@ -80,9 +80,9 @@ A fully automated **Smart School Bell System** built using **NodeMCU ESP8266**, 
 | Source | Target |
 |-------|--------|
 | 5V Adapter | NodeMCU (Micro USB) |
-| 230V Mains | Bell via Relay |
+| 220V Mains | Bell via Relay |
 
-
+!diagram.png
 
 ## 🌐 Web Dashboard Access
 
@@ -146,7 +146,7 @@ git clone https://github.com/your-username/smart-bell-system.git
 
 ## ⚠️ Safety Note
 
-This project involves **high voltage (230V AC)**.  
+This project involves **high voltage (220V AC)**.  
 Improper handling can cause serious injury.
 
 👉 Always:
